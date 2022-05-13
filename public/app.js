@@ -1,4 +1,4 @@
-const url = 'http://api.weatherstack.com/current?access_key=850cfda6651dc44a72e691481bd16488&query=+ encodeURIComponent(latitude, longitude) +&units=m'
+const url = 'http://api.weatherstack.com/current?access_key=850cfda6651****a72e691481bd16488&query=+ encodeURIComponent(latitude, longitude) +&units=m'
 
 
 
